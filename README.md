@@ -30,11 +30,11 @@ My project will be a simple game in which a player starts with a certain amount 
 
 ### Features
 
-1. << Feature 1 >>
-2. << Feature 2 >>
-3. << Feature 3 >>
-4. << Feature 4 >>
-5. << Feature 5 >>
+1. Start Menu Screen
+2. Betting
+3. Standing
+4. Pushing
+5. Game Over Screen
 
 ### Classes
 
