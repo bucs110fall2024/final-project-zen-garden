@@ -32,8 +32,8 @@ My project will be a simple game in which a player starts with a certain amount 
 
 1. Start Menu Screen
 2. Betting
-3. Standing
-4. Pushing
+3. Hitting
+4. Standing
 5. Game Over Screen
 
 ### Classes
