@@ -12,7 +12,7 @@ Jared Mitchell
 
 ## Project Description
 
-My project will be a simple game in which a player starts with a certain amount of money and bets against a dealer bot playing blackjack from a randomized deck. If the player wins, he will receive a reward equal to his bet, if he wins with a blackjack he will reveve a reward 1.5x of his bet, if he matches the dealers total he will get his bet back, and if he loses he will lose his bet.
+My project will be a simple game of a tic tac toe against a randomized bot. Once the game is over, the winner will be displayed on screen and the game will end
 
 ***    
 
@@ -20,7 +20,7 @@ My project will be a simple game in which a player starts with a certain amount 
 
 ### Initial Design
 
-![initial gui](assets/gui.jpg)
+![initial gui](assets/gui.pdf)
 
 ### Final Design
 
@@ -30,11 +30,11 @@ My project will be a simple game in which a player starts with a certain amount 
 
 ### Features
 
-1. Start Menu Screen
-2. Betting
+1. Keeping track of card values and meaning
+2. Ace Functionality
 3. Hitting
 4. Standing
-5. Game Over Screen
+5. Random Cards
 
 ### Classes
 
